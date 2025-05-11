@@ -1,0 +1,56 @@
+Log for testing 20/91 SAT formulas
+
+SAT (0.019332s)
+SAT (0.029046s)
+SAT (0.012261s)
+SAT (0.015175s)
+SAT (0.008521s)
+
+Solved clause sets (SAT): 5/5
+Solved clause sets (UNSAT): 0/5
+Total time: 0.084336s
+Average time: 0.016867s
+
+
+Log for testing 50/218 formulas
+
+SAT (0.205082s)
+SAT (0.087774s)
+SAT (0.106338s)
+SAT (0.082669s)
+SAT (0.124461s)
+
+Solved clause sets (SAT): 5/5
+Solved clause sets (UNSAT): 0/5
+Total time: 0.606325s
+Average time: 0.121265s
+
+
+
+Log for testing 100/430 formulasSAT (11.295793s)
+
+SAT (1.702468s)
+SAT (6.659559s)
+SAT (1.997719s)
+SAT (4.408070s)
+
+Solved clause sets (SAT): 5/5
+Solved clause sets (UNSAT): 0/5
+Total time: 26.063610s
+Average time: 5.212722s
+
+
+
+Testing for 150/645 formulas
+
+SAT (386.530759s)
+SAT (112.548874s)
+SAT (16.014721s)
+SAT (5.079266s)
+SAT (89.286833s)
+
+Solved clause sets (SAT): 5/5
+Solved clause sets (UNSAT): 0/5
+Total time: 609.460453s
+Average time: 121.892091s
+

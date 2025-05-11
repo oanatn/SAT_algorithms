@@ -1,0 +1,6 @@
+Some information about this repository:
+- the logs of the resolution and DP algorithms were overwriten (due to how the code is written) so in their espective logs, you can only see the last runs. However, the datasets that have been used are all present in the datasets folder, and the experiments can be redone easily.
+- to redo the experiment with any data set, simply rename one of them into "clause_sets.json" and then run the chosen algorithm.
+- the clause_sets.json document outside the datasets folder is the output of the parser.py file, which converts files from .cnf to .json. I have left it there for easier workflow - if you rename the datasets after you use them, after you craft a new set, you can just copy "clausesets.json" from the main folder into the datasets subfolder and run.
+- the word document titled "sumary" contains handwritten information that was taken as the experiments were run. Most of it can be found in the paper.
+The DPLL log contains all the experiments conducted on this algorithm. It was modified manually to label each entry corresponding to what is in the paper, but the data  is all there.
